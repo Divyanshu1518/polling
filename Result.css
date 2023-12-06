@@ -1,0 +1,11 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(207, 243, 231);
+    color: rgba(244, 69, 72, 0.779);
+}
+.img-cont{
+    background-image: url("https://img.lovepik.com/element/45009/2310.png_860.png");
+    position: absolute;
+    width: 40%;
+}
